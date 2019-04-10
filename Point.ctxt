@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\n\ A\ class\ that\ holds\ a\ 2D\ point.\n\n\ @author\ Jason\ Heard\n
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+numComments=3
